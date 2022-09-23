@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../portofolio3"
+		},
+		{
+			"path": "../portofolio"
+		},
+		{
+			"path": "../boostrap"
+		},
+		{
+			"path": "../tugas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portofolio"
+	}
+}
